@@ -8,4 +8,4 @@ HollowKnight
 LovelyBanana
 KatieCat
 MiaCatlady
-Salem
+MrSalem
