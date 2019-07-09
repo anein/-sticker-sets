@@ -6,6 +6,6 @@ MrShark
 SkepticalDoc
 HollowKnight
 LovelyBanana
-KatieCat
+ThisCat
 MiaCatlady
 MrSalem
